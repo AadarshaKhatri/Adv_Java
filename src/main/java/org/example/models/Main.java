@@ -3,8 +3,7 @@ import org.example.models.Enumss;
 
 import java.lang.reflect.Method;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
 public class Main {
     public static void main(String[] args) throws  Exception {
         //Ennums
@@ -44,5 +43,8 @@ public class Main {
     public void Hello2(){
         System.out.println("Custom annotations 2 ");
     }
+
+
+    Thread1 object = new Thread1();
 
 }
